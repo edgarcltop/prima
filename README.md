@@ -3,7 +3,7 @@
 This repository is fine-tuned to conse multi-agent tasks, we also recommend an optimized implementation.
 
 
-## Finetuned-QMIX
+## Finetuned
 
 There are so many code-level tricks in the  Multi-agent Reinforcement Learning (MARL), such as:
 - Value function clipping (clip max Q values for QMIX)
