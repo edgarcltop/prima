@@ -21,9 +21,9 @@ Prima is framework for deep multi-agent reinforcement learning and includes impl
 
 Value-based Methods:
 
-- [**QMIX**: QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning]
-- [**VDN**: Value-Decomposition Networks For Cooperative Multi-Agent Learning]
-- [**IQL**: Independent Q-Learning]
+- [ QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning]
+- [Value-Decomposition Networks For Cooperative Multi-Agent Learning]
+- [Independent Q-Learning]
 
 
 ## Installation instructions
@@ -32,7 +32,7 @@ Install Python packages
 
 ```shell
 # require Anaconda 3 or Miniconda 3
-conda create -n pymarl python=3.8 -y
+conda create -n prima python=3.8 -y
 conda activate pymarl
 
 bash install_dependecies.sh
