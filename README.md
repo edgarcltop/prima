@@ -21,7 +21,7 @@ Prima is framework for deep multi-agent reinforcement learning and includes impl
 
 Value-based Methods:
 
-- [ QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning]
+- [Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning]
 - [Value-Decomposition Networks For Cooperative Multi-Agent Learning]
 - [Independent Q-Learning]
 
