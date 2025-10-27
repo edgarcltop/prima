@@ -1,6 +1,6 @@
 # Prima
 
-This repository is fine-tuned to conse multi-agent tasks, we also recommend an optimized implementation of QMIX: https://github.com/marlbenchmark/off-policy.
+This repository is fine-tuned to conse multi-agent tasks, we also recommend an optimized implementation.
 
 
 ## Finetuned-QMIX
